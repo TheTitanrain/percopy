@@ -1,0 +1,3 @@
+xlsxwriter
+pywin32
+validate_email

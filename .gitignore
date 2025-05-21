@@ -1,0 +1,8 @@
+.vscode/
+build/
+dist/
+.env
+*.log
+*.spec
+*.xml
+*.xlsx
